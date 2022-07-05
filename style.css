@@ -30,13 +30,12 @@ h2 {
     width: 100%;
 }
 
-.link button {
+.anchor-button {
     text-decoration: none;
-    background-color: linear-gradient(orange, tomato);
+    background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
-    color: white;
-    font-weight: 700;
     border-radius: 5px;
+
 }
 
 .top-banner {
@@ -46,8 +45,8 @@ h2 {
 
 .dream-big {
     background-image: url(images/dream-bg.png);
-    background-repeat: no repeat;
-    background-position: rig;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .experience-area {
